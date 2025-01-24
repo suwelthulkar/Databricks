@@ -1,4 +1,4 @@
--- Databricks notebook source
+-- Databricks notebook  source
 
 CREATE TABLE StudentDetail
 (CollegeId INT,StudentId INT,DeptId INT)
